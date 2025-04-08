@@ -270,5 +270,3 @@ trainer.evaluate()
 
 trainer.save_model("biobert-clinical-ner")
 tokenizer.save_pretrained("biobert-clinical-ner")
-
-"""kc.koepp@utexas.edu"""
